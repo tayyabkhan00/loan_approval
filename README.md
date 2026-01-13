@@ -143,7 +143,9 @@ This project is open-source and available for learning and portfolio use.
 # 👤 Author
 
 Tayyab Khan
+
 B.Tech – AI & Data Science
+
 📍 India
 
 ⭐ If you like this project, don’t forget to star the repository!
