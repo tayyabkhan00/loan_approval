@@ -106,14 +106,21 @@ python loan_app.py
 4️⃣ Open in Browser
 http://127.0.0.1:5000
 
-📁 Project Structure
+## 📁 Project Structure
 
+```text
 LoanApprovalApp/
 │
 ├── loan_app.py
 ├── requirements.txt
 ├── render.yaml
 └── README.md
+```
+
+
+💼 Resume Description (Use This)
+
+Built and deployed an end-to-end Loan Approval Prediction system using Logistic Regression and Flask. Designed an interactive web interface and deployed the application on Render to enable real-time user predictions.
 
 🔮 Future Enhancements
 
