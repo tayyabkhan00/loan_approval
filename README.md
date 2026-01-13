@@ -1,10 +1,10 @@
-🏦 Loan Approval Prediction System
+# 🏦 Loan Approval Prediction System
 Built an end-to-end ML web application using Logistic Regression and Flask.
 
 ## Live Demo
 🔗 https://loan-approval-prediction-quge.onrender.com
 
-📌 Project Overview
+# 📌 Project Overview
 
 The Loan Approval Prediction System is an end-to-end Machine Learning web application that predicts whether a loan application should be approved or rejected based on applicant financial and employment details.
 
@@ -12,7 +12,7 @@ The project uses Logistic Regression for binary classification and is deployed a
 
 This project demonstrates the complete ML workflow — from data generation and model training to deployment and real-time user interaction.
 
-🎯 Key Features
+# 🎯 Key Features
 
 🔍 Predicts Loan Approval / Rejection
 🧠 Uses Logistic Regression
@@ -22,7 +22,7 @@ This project demonstrates the complete ML workflow — from data generation and 
 🧩 Simple, clean, and beginner-friendly code
 💼 Resume & portfolio ready
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Programming Language: Python
 Machine Learning: Scikit-learn (Logistic Regression)
@@ -31,11 +31,11 @@ Frontend: HTML, CSS
 Data Handling: Pandas, NumPy
 Deployment: Render
 
-📊 Dataset Description
+# 📊 Dataset Description
 
 A realistic synthetic dataset was generated to simulate real banking data.
 
-Input Features:
+# Input Features:
 
 | Feature           | Description                      |
 | ----------------- | -------------------------------- |
@@ -45,14 +45,14 @@ Input Features:
 | Employment Status | Employed / Unemployed            |
 | Existing Loans    | Number of active loans           |
 
-Target Variable:
+# Target Variable:
 
 Approved → 1
 Rejected → 0
 
 The dataset contains 5,000 records to simulate a large real-world scenario.
 
-🧠 Machine Learning Model
+# 🧠 Machine Learning Model
 
 Model Used: Logistic Regression
 Problem Type: Binary Classification
@@ -61,7 +61,7 @@ Why Logistic Regression?
  Widely used in finance and risk assessment
  Ideal for approval / rejection problems
 
-🌐 Live Application
+# 🌐 Live Application
 
 Users can enter their details through a web form and instantly receive a prediction.
 
@@ -76,7 +76,7 @@ Existing Loans: 1
 Output:
 ✅ Loan Approved
 
-🖼️ Application UI
+# 🖼️ Application UI
 
 The web interface is designed to be:
 Clean and modern
@@ -84,14 +84,14 @@ Easy to use
 Mobile-friendly
 Professionally styled using CSS
 
-🚀 Deployment
+# 🚀 Deployment
 
 The application is deployed using Render and is publicly accessible.
 
-🔗 Live URL:
+# 🔗 Live URL:
 https://loan-approval-prediction-quge.onrender.com
 
-🧪 How to Run Locally
+# 🧪 How to Run Locally
 
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/loan_approval.git
@@ -118,11 +118,11 @@ LoanApprovalApp/
 ```
 
 
-💼 Resume Description (Use This)
+# 💼 Resume Description (Use This)
 
 Built and deployed an end-to-end Loan Approval Prediction system using Logistic Regression and Flask. Designed an interactive web interface and deployed the application on Render to enable real-time user predictions.
 
-🔮 Future Enhancements
+# 🔮 Future Enhancements
 
 Add prediction probability score
 Display model accuracy & confusion matrix
@@ -131,16 +131,16 @@ Add database support
 Deploy using AWS or Docker
 Convert to Streamlit dashboard
 
-🤝 Contribution
+# 🤝 Contribution
 
 Contributions are welcome!
 Feel free to fork the repository and submit a pull request.
 
-📜 License
+# 📜 License
 
 This project is open-source and available for learning and portfolio use.
 
-👤 Author
+# 👤 Author
 
 Tayyab Khan
 B.Tech – AI & Data Science
