@@ -14,13 +14,13 @@ This project demonstrates the complete ML workflow — from data generation and 
 
 # 🎯 Key Features
 
-🔍 Predicts Loan Approval / Rejection
-🧠 Uses Logistic Regression
-🌐 Interactive Web Interface (HTML + CSS)
-⚡ Real-time prediction from user inputs
-🚀 Deployed on Render
-🧩 Simple, clean, and beginner-friendly code
-💼 Resume & portfolio ready
+- 🔍 Predicts Loan Approval / Rejection
+- 🧠 Uses Logistic Regression
+- 🌐 Interactive Web Interface (HTML + CSS)
+- ⚡ Real-time prediction from user inputs
+- 🚀 Deployed on Render
+- 🧩 Simple, clean, and beginner-friendly code
+- 💼 Resume & portfolio ready
 
 # 🛠️ Tech Stack
 
